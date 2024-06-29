@@ -1,0 +1,51 @@
+Please share an updated CV for the hiring team to review. Here are some general tips to consider:
+
+Keep it at 2 pages with a focus on achievements and impact (not responsibilities)
+Use this guide and video to help do a concise write up
+Spelling, font and formatting consistency is important and shows attention to detail
+Do you desire a specific team or domain? Don't worry! At this stage we're just checking your coding skills and will flag any team or domain interest on your application. Team allocation is normally decided at the final interview stages. Let's only focus on the first conversation!
+
+Ready for your interview? We discussed many topics during our last interaction and I wanted to take the time to reiterate and dive deeper into what you can expect during the technical phone conversation. One of my colleagues will reach out via email to confirm the details of your phone interview. You'll notice that we don't share interviewer names as things can change last minute and will save on email traffic from updates.
+
+Our Interviews
+Start with Steve Yegge’s Blog and review our official interview guide and hiring process.
+Google interviews focus very heavily on algorithms and data structures. You'll be expected to know and apply: lists, maps, stacks, priority queues, binary trees, graphs, bags, and sets. You'll need to talk about how they're implemented and why you'd choose one implementation or data structure instead of another. For algorithms you'll want to know greedy algorithms, divide and conquer, dynamic programming, recursion, and brute force search. You'll definitely want to be conversant with big­O notation, time-­space complexity, and real world performance of all of this. Most importantly, you'll need to be able to pick the right data structure and algorithm for a specific problem.
+
+Suggestions on reading material include:
+
+Algorithm / Data Structure Theory books
+Google Style Guides (C++, Python, Java; Android, Javascript)
+Coursera - Algorithms, Part 1
+Coursera - Algorithms, Part 2
+Udacity - Intro to Algorithms
+MIT Open courseware - Introduction to Algorithms
+Besides, this is a gitHub link on Computer Science (CS) fundamentals which does a good job as checklist on what you should master in order to prepare for coding at Google. 
+
+We do expect you to know a lot about algorithms and data structures and especially be able to implement them into your solutions - there is a great BigO cheat sheet that may also help you!
+More about interview theory!
+When you practice, do not use an IDE. You need to be able to write legible, compilable code without help with regards to layout, or spelling of standard library class/method names. I suggest solving similar style algorithmic /DS problems on a google document or on paper to simulate a real interview. 
+Several sites that provide similar problems to those typically asked in the interview are (medium-hard questions):
+
+HackerRank (highly encouraged)
+Topcoder
+Codeforces
+Geeksforgeeks (highly encouraged)
+Leetcode (highly encouraged)
+InterviewBit (highly encouraged)
+Kattis
+Problems from Cracking the Coding Interview Book
+I hope these will help get you into the problem-solving mindset. Here are a few videos you must watch before you take an interview with Google: Coding, Systems Design and Leadership.
+
+During the interview you should ask yourself the following things:
+
+Do you feel confident with CS fundamentals?
+Do you listen well?
+Do you know what to ask to clarify the questions?
+Can you find the optimal solution of the complicated coding/algorithm problems, present it in a very efficient/clean coding (no/less bug), and share your thoughts logically?
+Is your problem solving and coding speedy and efficient with your profound knowledge in CS fundamentals?
+Have you covered edge cases?
+Our Recruitment Process
+
+We typically start off with 1-2 interviews over the phone or Google Hangouts from home. We schedule these interaction within common availability between you and our interviewers - so that is why we ask for many availability options over 2 weeks. It will then typically take about a week to collect feedback and provide you an update on next steps. If successful at the first interview stage, you’ll move to 5 sessions of onsite interviews at one of our Google offices. You’ll also have the opportunity to have lunch in our office and take a look around to see how we work for yourself. 
+After onsite interviews, hiring decisions at Google are made by committees, not by individuals. Once all interviews have been conducted the feedback will be collated based on the merits of each interaction, your resume and other pertinent information which is presented to a Software Engineering Hiring Committee. The Committee will make a recommendation on how to proceed with your application, and your Recruiter will enact this. Please understand that as we carefully look at each application, it may take a short while to make a decision.
+At the final stage, we'll find you a home in one of our awesome teams or Products Areas (PAs) before your application heads to our offer review committee. They verify hiring committee's recommendation and make a final decision to potentially proceed to a formal offer. The normal process will take around 2 months, dependant on how well we collaborate in collating information and completing other time sensitive processes. There will be many contact touch points along the way and we’ll help with any questions you may have.
