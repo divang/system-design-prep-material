@@ -1,0 +1,62 @@
+Sharing a few pointers with respect to *System Design*. Please have a thorough look :
+*What is a system design question and why is it important?*
+System design questions are used to assess a candidate's ability to combine knowledge, theory, experience and judgment toward solving a real-world engineering problem. Sample topics include feature sets, interfaces, class hierarchies, constraints, simplicity, robustness and tradeoffs. The interview will assess your deep understanding of how the internet works and familiarity with the various pieces.
+*Interview Tips and Expectations* :
+1. The system design question will ask you to take an abstract question in a formerly unseen problem and present a high level framework to solve the resented problem. In doing so, follow these steps
+- Gather key requirements - Identify key design elements
+- Identify tradeoffs of different decisions
+- Dive deep into a specific sub-problem AND/OR demonstrate what process to use to arrive at a solution Identify the major components of an overall system design and deeply describe at least two of them. Suggest which technologies and systems should be used to solve a relatively common problem (i.e. relational database, document-based database, etc.), and if relevant, share a story about a time you have solved a problem using these technologies.
+1. When defining a system, include as many non-functional requirements as possible. For example: performance, latency, legal, privacy, maintainability, capacity, security, geographic, and cross-DC consideration. 2. Develop a framework you can use to answer most questions. 3. Approach the problem with an open mind: Be mindful that your familiarity (if any) with the problem may make you take shortcuts (even verbal ones when explaining your approach); the interviewer may not share the same context as you. If there is a more succinct approach, feel free to explain to the interviewer the route you’re taking and the context behind why. 4. Problem Solve: The interviewers are looking for problem solving and approach as much as they are assessing your solution. So, ask clarifying questions about the problem, express ideas verbally, and think out loud.
+5. Constantly challenge your own design. Be prepared to justify every decision you make. Practice going through problems with a friend. 6. Listen: Design questions are typically open-ended and the problem may be ambiguous. If the interviewer gives a hint or asks a question while you aresolving the problem, listen intently and do not ignore. They are most likely trying to guide you or looking for a particular awareness.
+*System Design*
+This round tests the candidate on technical design skills. It can be further split into Low-Level Design (LLD) and High-Level design (HLD). Knowledge in this area grows with industry experience. Try to gain knowledge on concepts such as — Distributed Systems, Load Balancing, Network Protocols, Consistent Hashing, CAP Theorem, Replication & Sharding, etc.
+- *Watch this video - *Google System Design Interview Preparation
+<https://www.youtube.com/watch?v=Gg318hR5JY0&list=PLllx_3tLoo4c_aR8RKOOnizL5LiUH02YF&index=11&t=18s>
+- *Building large-scale distributed systems
+<http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf>*
+*(video version) * <https://www.youtube.com/watch?v=modXC5IWTJI>
+- *The Google File System* <https://ai.google/research/pubs/pub51>
+- *Bigtable: A Distributed Storage System for Structured Data*
+<https://ai.google/research/pubs/pub27898>
+- *Systems design
+<https://github.com/checkcheckzz/system-design-interview>*
+- *Youtube Video: System Design
+<https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX>*
+   <https://www.youtube.com/watch?v=Gg318hR5JY0&t=18s>
+    https://www.youtube.com/watch?v=modXC5IWTJI
+- Youtube Channels — Gaurav Sen
+<https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw> and Narendra L
+<https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA>
+- [Paid] Grokking the System Design Interview
+<https://www.educative.io/courses/grokking-the-system-design-interview> (One of the best resources for System Design. Highly Recommended.)
+- [Paid] Grokking the Object-Oriented Design Interview
+<https://www.educative.io/courses/grokking-the-object-oriented-design-interview>
+- [Paid] AlgoExpert System Design Fundamentals
+<https://www.algoexpert.io/systems/fundamentals>
+- [Book] Designing Data-Intensive Applications (DDIA)
+<https://dataintensive.net/>
+
+Few other resources I came across on the internet which I believe should help
+- *GFS* -
+https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf
+- *Dynamo* -
+https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
+- *Haystack* -
+https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Beaver.pdf
+- *MapReduce* -
+https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf
+- *Wormhole* -
+https://research.fb.com/wp-content/uploads/2016/11/wormhole-reliable-pub-sub-to-support-geo-replicated-internet-services.pdf
+- *Big Table* -
+https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
+- *Cassandra* -
+https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf
+- *Tao* -
+https://www.usenix.org/system/files/conference/atc13/atc13-bronson.pdf
+- *Paxos* - https://lamport.azurewebsites.net/pubs/paxos-simple.pdf
+- *Consistent Hashing* -
+https://www.akamai.com/uk/en/multimedia/documents/technical-publication/consistent-hashing-and-random-trees-distributed-caching-protocols-for-relieving-hot-spots-on-the-world-wide-web-technical-publication.pdf
+- *Sherpa* - http://www.vldb.org/pvldb/vol12/p2300-cooper.pdf
+- *Time, clock and the ordering of events* -
+https://lamport.azurewebsites.net/pubs/time-clocks.pdf
+Hope this helps ! Cheers !
